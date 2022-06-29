@@ -10,7 +10,7 @@ export default class About extends React.Component {
     render() {
 
         const aboutArray = {
-            address: '461 Adelaide Street West, Apt. 431, Toronto, ON. M5V 0L6',
+            address: '461 Adelaide Street West, Toronto, ON. M5V 0L6',
             email: 'confinn93@gmail.com',
             phoneNum: '6473272495'
         };
