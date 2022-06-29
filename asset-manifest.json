@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/conor-resume/static/css/main.9a794aaf.css",
+    "main.js": "/conor-resume/static/js/main.48beb172.js",
+    "static/js/787.a750b5f8.chunk.js": "/conor-resume/static/js/787.a750b5f8.chunk.js",
+    "static/media/linkedInPic.jpg": "/conor-resume/static/media/linkedInPic.33b9c1daff5917a79255.jpg",
+    "static/media/resume.pdf": "/conor-resume/static/media/resume.9de854a6e0e97c02827a.pdf",
+    "index.html": "/conor-resume/index.html",
+    "main.9a794aaf.css.map": "/conor-resume/static/css/main.9a794aaf.css.map",
+    "main.48beb172.js.map": "/conor-resume/static/js/main.48beb172.js.map",
+    "787.a750b5f8.chunk.js.map": "/conor-resume/static/js/787.a750b5f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a794aaf.css",
+    "static/js/main.48beb172.js"
+  ]
+}
