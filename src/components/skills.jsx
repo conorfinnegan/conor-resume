@@ -6,7 +6,7 @@ export default class Skills extends React.Component {
 
         const skillsList = ['Java - Very strong knowledge of Java with over 6 years industry experience.', 'AWS - Over 3 years industry experience using AWS services such as S3, ECS, CloudWatch, Cloudtrail, etc..',
             'SQL - High level of SQL knowledge developed over my career with daily usage.', 'REST - 6+ years industry experience',
-            'JavaScript & ReactJS - I have used JavaScript regularly over my professional career for front-end development & I have been using ReactJS frequently for over 2 years, both as part of my job and for personal projects.',
+            'JavaScript & React - I have used JavaScript regularly over my professional career for front-end development & I have been using ReactJS frequently for over 2 years, both as part of my job and for personal projects.',
             'Jenkins - Used on a daily basis as part of build management and the deployment process to provide QA testers and the customer with the latest features and fixes.',
             'Jquery - 6 years industry experience',
             'Agile Software Development  - I have been using the Agile development methodology for all of my professional career.',
