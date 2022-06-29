@@ -5,7 +5,6 @@ export default class TorontoExperience extends React.Component {
     render() {
         return (
             <div>
-            <div className="rela-block caps greyed">Experience & Work History</div>
                 <h3>Software Engineer at FINEOS Corporation</h3>
                 <h4>Toronto, ON</h4>
                 <h4>01/2018 - Present</h4>
@@ -24,11 +23,6 @@ export default class TorontoExperience extends React.Component {
                 <li>Managing SVN repositories for a joint development environment with engineers working for our customers.</li>
                 <li>Regularly meeting deadlines set by customers for deployments and releases.</li>
                 <li>Implemented custom solutions for customers such as Desjardins, SunLife Financial and Royal Bank of Canada.</li>
-
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
             </div>
         )
     }

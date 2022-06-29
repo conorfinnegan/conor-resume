@@ -5,7 +5,6 @@ export default class DublinExperience extends React.Component {
     render() {
         return (
             <div>
-                <div className="rela-block caps greyed">Experience & Work History</div>
                 <h3>Software Engineer at FINEOS Corporation</h3>
                 <h4>Dublin, County Dublin</h4>
                 <h4>06/2016 - 01/2018</h4>
@@ -23,11 +22,6 @@ export default class DublinExperience extends React.Component {
                 <li>Version control using SVN and Git.</li>
                 <li>Investigating and discussing alternative solutions with colleagues.</li>
                 <li>Adhere to scheduling and meet deadlines set out as part of product and release plan milestones.</li>
-
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
             </div>
         )
     }
