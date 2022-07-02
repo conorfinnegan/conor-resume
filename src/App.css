@@ -3,7 +3,7 @@
     transition: 0.35s ease;
 }
 
-@media screen and (orientation: portrait) {
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
     html {
         /* Rotate the content container */
         -ms-transform: rotate(-90deg); /* IE 9 */
@@ -17,7 +17,7 @@
         position: absolute;
         top: 60%;
         left: 100%;
-        bottom:0;
+        bottom: 0;
         overflow: scroll;
         margin-top: 120px;
         display: block;
