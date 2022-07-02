@@ -4,7 +4,7 @@
 }
 
 @media screen and (max-device-width: 480px) and (orientation: portrait) {
-    html {
+    #root {
         /* Rotate the content container */
         -ms-transform: rotate(-90deg); /* IE 9 */
         -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
