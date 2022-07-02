@@ -4,7 +4,7 @@
 }
 
 @media screen and (orientation: portrait) {
-    html {
+    #root {
         /* Rotate the content container */
         -ms-transform: rotate(-90deg); /* IE 9 */
         -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
@@ -17,8 +17,9 @@
         position: absolute;
         top: 60%;
         left: 100%;
-        bottom:0;
-        overflow: scroll;
+        bottom: 0;
+        overflow-y: scroll;
+        overflow-x: hidden;
         margin-top: 120px;
         display: block;
     }
