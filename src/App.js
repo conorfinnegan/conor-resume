@@ -50,7 +50,7 @@ class App extends React.Component {
 
     render() {
         return (
-            <div className='App'>
+            <div className='App' name="viewport" content="width=device-width, initial-scale=1">
                 <>
                     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css" />
                     <link href="https://fonts.googleapis.com/css?family=Raleway:100" rel="stylesheet" type="text/css" />
