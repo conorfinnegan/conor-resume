@@ -6,7 +6,7 @@ export default class Summary extends React.Component {
 
         const summaryArray = {
             title: 'Summary',
-            summary: 'Highly qualified and enthusiastic full-stack software engineer with over 6 years experience with diversified exposure to a number of technologies in a variety of work scenarios. I have worked within small and large teams, leveraging communication and interpersonal skills to deliver workloads in accordance with strict deadlines while using a strongly developed ability to solve any problem logically and analytically.'
+            summary: 'Highly qualified and enthusiastic professional with over 6 years experience with diversified exposure to a number of technologies while working on a variety of large scale distributed systems. Worked within small and large teams, leveraging communication and interpersonal skills to deliver workloads in accordance with strict deadlines while using a strongly developed ability to solve any problem logically and analytically.'
         };
 
         const interests = ['Travelling - Both city-breaks and wilderness escapes.', 'Listening to music and podcasts', 'Fantasy sports', 'Watching documentaries', 'Reading'];

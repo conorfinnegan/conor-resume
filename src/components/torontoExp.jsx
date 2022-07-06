@@ -15,7 +15,7 @@ export default class TorontoExperience extends React.Component {
                     and assisting new employees in Canada.</li>
                 <li>Regular meetings with customer representatives to work in an agile manner to meet their needs and communicate custom solutions.</li>
                 <li>Developing solutions while collaborating with subject matter experts and solutions architects.</li>
-                <li>Experience with and daily exposure to Amazon Web Services including EC2, S3, CloudWatch & CloudTrail.</li>
+                <li>Experience with and daily exposure to Amazon Web Services including EC2, S3, CloudWatch & CloudTrail and deploying Docker containers on AWS.</li>
                 <li>Managing customer deployments and working closely with Cloud Operations for software releases using Gradle, Jenkins and Amazon Web Services.</li>
                 <li>Wrote, modified, and debugged software for clients.</li>
                 <li>Modified the user interface to meet customer requirements using front-end development languages such as JavaScript, ReactJS, CSS, HTML and JQuery.</li>
