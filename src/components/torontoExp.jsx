@@ -13,7 +13,9 @@ export default class TorontoExperience extends React.Component {
                 <h3>Key Responsibilities:</h3>
                 <li>After relocating to Toronto, I established an independent office on behalf of the company and helped to grow the team by onboarding
                     and assisting new employees in Canada.</li>
-                <li>Regular meetings with customer representatives to work in an agile manner to meet their needs and communicate custom solutions.</li>
+                <li>Regular meetings with customer representatives to work in an agile manner to meet their needs and
+                    communicate custom solutions while meeting all deadlines.</li>
+                <li>Experience with integrations using REST API's and SOAP Services.</li>
                 <li>Developing solutions while collaborating with subject matter experts and solutions architects.</li>
                 <li>Experience with and daily exposure to Amazon Web Services including EC2, S3, CloudWatch & CloudTrail and deploying Docker containers on AWS.</li>
                 <li>Managing customer deployments and working closely with Cloud Operations for software releases using Gradle, Jenkins and Amazon Web Services.</li>
@@ -21,7 +23,6 @@ export default class TorontoExperience extends React.Component {
                 <li>Modified the user interface to meet customer requirements using front-end development languages such as JavaScript, ReactJS, CSS, HTML and JQuery.</li>
                 <li>Creating SQL solutions to update and modify customer data.</li>
                 <li>Managing SVN repositories for a joint development environment with engineers working for our customers.</li>
-                <li>Regularly meeting deadlines set by customers for deployments and releases.</li>
                 <li>Implemented custom solutions for customers such as Desjardins, SunLife Financial and Royal Bank of Canada.</li>
             </div>
         )
