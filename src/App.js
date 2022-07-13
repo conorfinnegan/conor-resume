@@ -86,7 +86,7 @@ class App extends React.Component {
                             <p className="rela-block list-thing" onClick={() => this.updateSection('Education')}>Docker from Basic to Advanced</p>
                             {/*Skills */}
                             <p className="rela-block caps side-header" onClick={() => this.updateSection('Skills')}>Skills</p>
-                            <p className="rela-block list-thing" onClick={() => this.updateSection('Skills')}>Java, AWS, SQL, REST, JavaScript, Jenkins, Jquery, React, Agile Software Development, Communication & Collboration, Jira, Problem Resolution, Android Development, Algorithms and Data Structures</p>
+                            <p className="rela-block list-thing" onClick={() => this.updateSection('Skills')}>Java, AWS, SQL, REST, JavaScript, Jenkins, Jquery, React, Communications, Jira, Problem Resolution, SOAP, Docker, Agile Methodology, Agile Methodology, REST, API's</p>
                         </div>
                     </div>
                 </>
