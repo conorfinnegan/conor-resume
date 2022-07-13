@@ -13,7 +13,8 @@ export default class Skills extends React.Component {
             'Communications & Collboration - I participate in daily calls with my own team as well as customer representatives to communicate progression, solutions and any issues.',
             'Jira  - Over 6 years of experience using Jira to monitor bugs, tasks, stories, epics, etc.',
             'Problem-Solving & Resolution - Using logical analysis and thoughtful planning, I have solved a number of issues and customer requests over my career and I have been effectively and efficiently been able to communicate these solutions.',
-            'Android Developemnt - Experience from developing applications in college and personal projects.', 'Good knowledge of algorithms and data structures'];
+            'Android Developemnt - Experience from developing applications in college and personal projects.', 'Good knowledge of algorithms and data structures',
+            'Integrations using REST APIs and SOAP Services.'];
         return (
              <div>
                 <div className="rela-block caps greyed">Skills</div>
